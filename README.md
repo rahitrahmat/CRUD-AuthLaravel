@@ -13,16 +13,16 @@ Repository ini dibuat oleh :
 Rahmat Hidayatullah G.231.20.0135
 USM FTIK
 </h1>
-<h3> Cara running program :
+<h3> Cara running program : </h3>
 <p>
-1. git clone atau save as zip
-2. buka terminal/cmd, cd ke folder dimana program ini kamu simpan
-3. jalankan perintah : php artisan key:generate
-4. ubah settingan database di .env sesuai dengan database lokal yang kamu punya
-5. jalankan perintah untuk migrate database dari folder ke dalam database lokal : php artisan migrate:fresh --seed
-6. install node js dan jalankan sebagai dev mode : npm install && npm run dev
-7. jalankan framework : php artisan serve
-8. buka localhost:8000 di browser kamu
-9. register email dulu untuk akses login agar bisa melihat tabel database yang ada didalam
-10. login sesuai dengan register yang telah dibuat
+1. git clone atau save as zip <br>
+2. buka terminal/cmd, cd ke folder dimana program ini kamu simpan <br>
+3. jalankan perintah : php artisan key:generate <br>
+4. ubah settingan database di .env sesuai dengan database lokal yang kamu punya <br>
+5. jalankan perintah untuk migrate database dari folder ke dalam database lokal : php artisan migrate:fresh --seed <br>
+6. install node js dan jalankan sebagai dev mode : npm install && npm run dev <br>
+7. jalankan framework : php artisan serve <br>
+8. buka localhost:8000 di browser kamu <br>
+9. register email dulu untuk akses login agar bisa melihat tabel database yang ada didalam <br>
+10. login sesuai dengan register yang telah dibuat <br>
 </p>
